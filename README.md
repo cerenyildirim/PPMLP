@@ -1,6 +1,6 @@
 # PPMLP: A Privacy-Preserving Federated Learning Protocol for Multilayer Perceptrons
 
-We propose a homomorphic-encryption-based privacy-preserving federated learning protocol for multilayer perceptrons, which is shown to be secure under the presence of colluding honest-but-curious clients. The possibility of client collusion attacks is eliminated by utilizing the inherent permutability of neural networks. The protocol allows multiple distributed clients to collaboratively train a machine learning model without sharing their private data, addressing ongoing concerns regarding data privacy during the federated learning process. 
+We propose a homomorphic-encryption-based privacy-preserving federated learning protocol for multilayer perceptrons. By utilizing neural networks' inherent permutability, we reduce the possibility of client collusion attacks. The protocol allows multiple distributed clients to collaboratively train a machine learning model without sharing their private data, addressing ongoing concerns regarding data privacy during the federated learning process. 
 
 ## Dependencies
 
